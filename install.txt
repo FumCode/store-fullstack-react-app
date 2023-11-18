@@ -4,3 +4,6 @@ npm i @mui/material @emotion/react @emotion/styled @mui/icons-material react-rou
 npm i @stripe/stripe-js (in server)
 
 npm run strapi admin:reset-user-password --email=admin@gmail.com --password=Admin1234
+
+
+https://www.youtube.com/watch?v=EBCdyQ_HFMo
